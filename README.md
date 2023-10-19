@@ -36,7 +36,7 @@ pip install -r requirements.txt
 6. **Visualizations**
 Explore the distribution of key features in the dataset using Matplotlib and Seaborn. Visualizations are available in the Visualizations Notebook.
 
-7 **Acknowledgments**
+7. **Acknowledgments**
 This project leverages the power of the following libraries:
 pandas
 scikit-learn
