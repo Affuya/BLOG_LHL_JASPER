@@ -46,5 +46,5 @@ Contributions are welcome! Feel free to open issues for suggestions or submit pu
 
 Happy coding!
 
-Customize the sections based on your specific project details and preferences. Ensure t
+Customize the sections based on your specific project details and preferences.
 
